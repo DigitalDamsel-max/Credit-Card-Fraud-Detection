@@ -1,0 +1,12 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore compiled files
+__pycache__/
+*.pyc
+
+# Ignore pickled model files if you want (optional)
+# *.pkl
+
+# Ignore system files
+.DS_Store
