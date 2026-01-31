@@ -2,6 +2,8 @@
 
 This project demonstrates an end-to-end **Credit Card Fraud Detection System** using **Python, Machine Learning, and Streamlit**.
 
+🔗 Live App: https://your-app-name.streamlit.app
+
 ## 🚀 Features
 - Synthetic dataset with anonymous card transactions
 - Fraud detection using Logistic Regression
