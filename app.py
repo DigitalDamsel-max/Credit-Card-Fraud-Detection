@@ -13,7 +13,9 @@ with open("scaler.pkl", "rb") as f:
 with open("model_columns.pkl", "rb") as f:
     model_columns = pickle.load(f)
 
-st.title("💳 Credit Card Fraud Detection")
+st.title("💳 Credit Card Fraud Detection System")
+st.markdown("### Secure & Real-Time Fraud Check")
+
 st.write("Enter transaction details.")
 
 # --- User inputs ---
